@@ -88,3 +88,6 @@ formation-python/
 ---
 
 **Bonne formation! Allons-y! 🎓**
+
+Progress: voir [PROGRESS.md](PROGRESS.md)
+
